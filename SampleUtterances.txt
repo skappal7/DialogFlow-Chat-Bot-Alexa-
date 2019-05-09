@@ -1,0 +1,105 @@
+Stat_bot_define	????
+Stat_bot_define	are you sure
+Stat_bot_define	i couldn't get that
+Stat_bot_define	what are stat bots do
+Stat_bot_define	what are stats chatbots designed for
+Stat_bot_define	what can you do
+Stat_bot_define	what do stat bots do
+Stat_bot_define	what is a stat bot
+Stat_bot_define	who are stat bots
+Stat_bot_define	who are you
+Stat_bot_define	why
+Name	this is sunil
+Standard_deviation_versus_target	i am compare standard deviation vs . target
+Standard_deviation_versus_target	i am comparing standard deviation vs. target
+Standard_deviation_versus_target	standard deviation vs . target
+Standard_deviation_versus_target	standard deviation vs. target
+Standard_deviation_versus_target	target vs . standard deviation
+Standard_deviation_versus_target	target vs. standard deviation
+DefaultWelcomeIntent	hello
+DefaultWelcomeIntent	hey
+DefaultWelcomeIntent	hi
+DefaultWelcomeIntent	hi i am sunil
+DefaultWelcomeIntent	howdy!
+DefaultWelcomeIntent	i couldn't get that
+DefaultWelcomeIntent	lol thanks
+DefaultWelcomeIntent	that's great
+DefaultWelcomeIntent	this is awesome
+DefaultWelcomeIntent	what's up
+DefaultWelcomeIntent	whats up
+DefaultWelcomeIntent	you are simply awesome!
+Continuous_data	{cont_data_formsslot}
+Continuous_data	another question
+Continuous_data	data type is {cont_data_formsslot}
+Continuous_data	datum type is {cont_data_formsslot}
+Continuous_data	i am dealing with {cont_data_formsslot}
+Continuous_data	i have {cont_data_formsslot}
+Continuous_data	the data is {cont_data_formsslot}
+Continuous_data	the datum is {cont_data_formsslot}
+Continuous_data	when do i perform ordinal logistic regression
+Percents_each_outcome_category_versus_target	i am compare percent in each outcome category vs . target
+Percents_each_outcome_category_versus_target	i am comparing percents in each outcome category vs. target
+Percents_each_outcome_category_versus_target	percent in each outcome category versus target
+Percents_each_outcome_category_versus_target	percent in each outcome category vs . target
+Percents_each_outcome_category_versus_target	percents in each outcome category versus target
+Percents_each_outcome_category_versus_target	percents in each outcome category vs. target
+Percentage_defect_versus_target	compare percentage defect versus target
+Percentage_defect_versus_target	compare percentage defect vs . target
+Percentage_defect_versus_target	comparing percentage defect versus target
+Percentage_defect_versus_target	comparing percentage defect vs. target
+Percentage_defect_versus_target	defect percentage vs . target
+Percentage_defect_versus_target	defect percentage vs. target
+Percentage_defect_versus_target	i am compare percentage defect vs . target
+Percentage_defect_versus_target	i am comparing percentage defect vs. target
+Percentage_defect_versus_target	percentage defect versus target
+Percentage_defect_versus_target	percentage defect vs . target
+Percentage_defect_versus_target	percentage defect vs. target
+RandomPhrases	...
+RandomPhrases	???
+RandomPhrases	????
+RandomPhrases	i don't get it
+RandomPhrases	nothing
+RandomPhrases	sorry
+RandomPhrases	umm
+Data_type	how can i perform hypothesis test
+Data_type	how to perform hypothesis test
+Data_type	hypothesis test
+Data_type	hypothesis testing
+Data_type	i want to do hypothesis
+Data_type	i want to do hypothesis test
+Data_type	i want to do hypothesis testing
+Data_type	i want to perform hypothesis
+Data_type	i want to perform hypothesis test
+Data_type	i want to test click through rate
+Data_type	i want to test click through rates
+Data_type	one
+Data_type	test hypothesis
+Data_type	what is the process to perform hypothesis test
+Data_type	yes
+Mean_versus_target	i am comparing mean vs. target
+Mean_versus_target	mean versus target
+Mean_versus_target	mean vs. target
+Attribute_data	{att_data_formsslot}
+Attribute_data	how about discrete data
+Attribute_data	i have a {att_data_formsslot}
+StatBot_features	????
+StatBot_features	how do we start working
+StatBot_features	show me what you do
+StatBot_features	show me your skills
+StatBot_features	show me your skillswhat can you help me with
+StatBot_features	this is great
+StatBot_features	what are you capable of
+StatBot_features	what are you skills
+StatBot_features	what can i ask you about
+StatBot_features	what re your main features
+StatBot_features	who are you
+Goodbye	bye
+Goodbye	good boy
+Goodbye	how do i do that
+Goodbye	how do i do that?
+Goodbye	thank a lot
+Goodbye	thank for all your help
+Goodbye	thank you
+Goodbye	thanks a lot
+Goodbye	thanks for all your help!
+Goodbye	this is grey wow

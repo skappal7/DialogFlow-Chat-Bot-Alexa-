@@ -1,0 +1,55 @@
+{
+  "intents": [
+    {
+      "intent": "Stat_bot_define"
+    },
+    {
+      "intent": "Name"
+    },
+    {
+      "intent": "Standard_deviation_versus_target"
+    },
+    {
+      "intent": "DefaultWelcomeIntent"
+    },
+    {
+      "intent": "Continuous_data",
+      "slots": [
+        {
+          "name": "cont_data_formsslot",
+          "type": "CONT_DATA_FORMS"
+        }
+      ]
+    },
+    {
+      "intent": "Percents_each_outcome_category_versus_target"
+    },
+    {
+      "intent": "Percentage_defect_versus_target"
+    },
+    {
+      "intent": "RandomPhrases"
+    },
+    {
+      "intent": "Data_type"
+    },
+    {
+      "intent": "Mean_versus_target"
+    },
+    {
+      "intent": "Attribute_data",
+      "slots": [
+        {
+          "name": "att_data_formsslot",
+          "type": "ATT_DATA_FORMS"
+        }
+      ]
+    },
+    {
+      "intent": "StatBot_features"
+    },
+    {
+      "intent": "Goodbye"
+    }
+  ]
+}
